@@ -1,0 +1,12 @@
+class test {
+
+public int a;
+
+public testMethod() {
+
+a = 1;
+
+}
+
+
+}
